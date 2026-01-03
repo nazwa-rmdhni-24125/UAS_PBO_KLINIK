@@ -45,6 +45,26 @@ pada file main.py.
 
 ---
 
+### Kebutuhan Sistem dan Cara Menjalankan Program
+
+Untuk menjalankan aplikasi ini, dibutuhkan:
+- Python versi 3.8 atau lebih baru  
+- Sistem operasi Windows, Linux, atau macOS  
+- Terminal atau Command Prompt  
+- Text editor atau IDE (disarankan menggunakan VS Code)
+
+Langkah menjalankan program:
+1. Pastikan Python telah terinstal dengan benar di komputer.
+2. Unduh atau clone repository proyek ini.
+3. Buka folder proyek melalui terminal atau Command Prompt.
+4. Jalankan program dengan perintah berikut:
+
+python main.py
+
+5. Aplikasi akan berjalan melalui tampilan terminal.
+
+---
+
 ### Struktur File Project
 UAS_PBO_KLINIK/
 │
